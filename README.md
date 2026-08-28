@@ -202,8 +202,10 @@ If required, install the Hugging Face embedding dependencies separately:
 ```text
 pip install langchain-huggingface sentence-transformers
 ```
-
 ---
+
+## 🖥️ Application Preview
+![Semantic Book Recommender](project-screenshot.png)
 
 ### 🙌 Acknowledgements
 
