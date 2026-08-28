@@ -156,7 +156,7 @@ Each recommendation includes:
 
 ---
 
-###💡 Example Queries
+### 💡 Example Queries
 
 Try queries such as:
 A story about forgiveness
@@ -207,6 +207,7 @@ pip install langchain-huggingface sentence-transformers
 
 ### 🙌 Acknowledgements
 
-This project was inspired by the LLM Course – Build a Semantic Book Recommender (Python, OpenAI, LangChain, Gradio) tutorial.
+This project was inspired by the **LLM Course** – Build a Semantic Book Recommender (Python, OpenAI, LangChain, Gradio) tutorial by **Free Code Camp** (
+freeCodeCamp.org)
 
 The project was independently implemented and adapted, including the use of a local Hugging Face sentence-transformer embedding model, semantic search with Chroma, category classification, emotional-tone filtering, and the Gradio dashboard.
